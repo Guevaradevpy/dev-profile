@@ -1,8 +1,9 @@
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f5392b73-d686-4188-991f-7fa8da976267" /># Hi, I'm Esteban Guevara
+# Hi, I'm Esteban Guevara
 
-**Junior Backend Developer** | Software Analysis & Development Student  
-Building production-ready APIs with Python, FastAPI and MySQL.
-Focused on clean architecture and real-world projects.
+**Junior Backend Developer** | Software Analysis & Development Student
+Building production-ready backend systems with **Python, Java, FastAPI, Spring Boot and MySQL**.
+Focused on **clean architecture, scalable APIs, database design, and real-world software projects**.
+
 
 
 ## Languages and Tools    
